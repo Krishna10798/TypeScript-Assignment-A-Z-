@@ -1,0 +1,12 @@
+var customerId = 101;
+console.log(customerId);
+var firstName = "Krishna";
+console.log(firstName);
+var lastName = "Yadav";
+console.log(lastName);
+var contactNo = 9876543210;
+console.log(contactNo);
+var email = 'krishna@gmail.com';
+console.log(email);
+var isPrevilaged = true;
+console.log(isPrevilaged);
